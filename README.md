@@ -1,6 +1,6 @@
 # Data Science Projects
 
-### *_Hande Esra ÇELEBİ_*
+### *Hande Esra ÇELEBİ*
 
 
 ## [Multiple Linear Regression - Factors Affecting Crime](https://handecelebi.github.io/mlr/regression.html)
