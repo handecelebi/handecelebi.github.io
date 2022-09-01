@@ -29,7 +29,7 @@ Both algorithms have produced similar results.
 # Datacamp Portfolio
 
 ## Courses
-### [1.	Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/67eab3568cc0c988d55deb393226b34768fa5ba3)
+#### [1.	Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/67eab3568cc0c988d55deb393226b34768fa5ba3)
 ### [2.	Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/8d9d38cae41048648a3e14eff56eca9ebc069662)
 ### [3.	Introduction to Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/3195f7d4b5ebf61a923ab18c8f76f6e7c29dce32)
 ### [4.	Introduction to Relational Databases in SQL](https://www.datacamp.com/statement-of-accomplishment/course/22477cf86cc9540b572f9910288ae5f1a01a54f2)
