@@ -24,3 +24,6 @@ The aim is to discover the purchasing trends of the customers and to investigate
 It is also to predict possible patterns by creating a logical set of rules.
 For this analysis, first I used Apriori and then Eclat algorithms and explained the differences between their process and the parameters it contains. 
 Both algorithms have produced similar results.
+
+
+# Datacamp Portfolio
